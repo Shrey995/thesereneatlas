@@ -1,0 +1,7 @@
+{
+  "name": "The Serene Atlas",
+  "description": "A high-fidelity personal sanctuary and life-mapping ecosystem designed with wholesome aesthetics, 3D parallax, and seasonal tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
